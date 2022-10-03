@@ -39,7 +39,7 @@ ordering = "NONE"
 side = "BOTH"
 [[dependencies.sushigocrafting]] #optional
 modId = "jei" #mandatory
-mandatory = true #mandatory
+mandatory = false #mandatory
 versionRange = "[7.6.1.72,)" #mandatory
 ordering = "NONE"
 side = "BOTH"
